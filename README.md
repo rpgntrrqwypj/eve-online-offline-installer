@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Over 20 years of legendary space battles! Explore a massive living universe of danger and opportunity in a challenging and highly rewarding space adventure. Fight, trade, build, and connect with a universe driven and shaped directly by players.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 64-bit / Rec: Windows 11 | macOS 11.0 or later |
+| **Processor** | Min: Intel Dual Core @ 2.0 GHz, AMD Dual Core @ 2.0 GHz) / Rec: Intel i7-7700 or AMD Ryzen 7 1700 @ 3.6 GHz or greater | Intel i5 @ 2.5 GHz | Apple M1 |
+| **Memory** | Min: 4 GB or higher / Rec: 16 GB or greater | 4 GB |
+| **Video** | Min: AMD Radeon 5450 or NVIDIA GeForce 420 or better with at… / Rec: NVIDIA Geforce GTX 1060, AMD Radeon RX 580 or better wi… | Intel HD 4000 |
+| **Supported OS** | — | macOS Monterey (version 12) |
 
 ---
 
